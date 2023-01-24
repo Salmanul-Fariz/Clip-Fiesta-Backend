@@ -1,1 +1,8 @@
+# Code Formating
+.prettierrc
+package-lock.json
+package.json
+.eslintrc.json
+
+# Node Modules
 **/node_modules
